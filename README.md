@@ -1,57 +1,62 @@
 # 👋 Hi, I'm Yash Dive
 
-🎓 Student | 🛠️ DevOps Enthusiast | ☁️ Cloud Learner
-
-I'm a passionate DevOps & Cloud learner with hands-on experience building full-stack applications, automating infrastructure with Terraform, and deploying projects on AWS. My goal is to grow into a reliable DevOps Engineer by learning through real-world builds and open collaboration.
-
----
-
-## 🔧 What I Do
-
-- 🌐 Full-stack Web App Deployment on AWS  
-- ⚙️ Infrastructure as Code using Terraform  
-- 🗃️ MongoDB Atlas + Node.js Integration  
-- 🔄 CI/CD Exploration (learning phase)  
-- 🧪 Build → Break → Debug → Repeat
+🎓 BBA (Computer Applications) student from Pune  
+🛠️ DevOps & Cloud Learner | 💻 Self-taught Builder | ☁️ AWS + Terraform Explorer
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 🔹 Rick and Morty Portal Web App
-- Full-stack animated web app with form data handling  
-- Built using HTML, CSS, JS, Node.js, MongoDB  
-- Deployed via EC2, S3, Elastic Beanstalk  
-- CloudTrail logs & automation for learning
+I'm a hands-on DevOps enthusiast exploring cloud infrastructure, automation, and full-stack deployment.  
+I believe in **learning by building**, and my GitHub is where I document my progress through real-world projects and tools.
 
-### 🔹 AWS Terraform EC2 Automation
-- Provisioned EC2 instances via Terraform  
-- Used S3 as remote backend and added tagging  
-- Handled IAM, key pairs, security groups, variables
-
-### 🔹 Portfolio Website
-- Responsive personal portfolio built using HTML/CSS/JS  
-- Hosted on GitHub Pages showcasing live project work
+I'm currently building projects using AWS, Terraform, Node.js, MongoDB, and more — with a strong focus on applying DevOps best practices, not just studying them.
 
 ---
 
-## 💻 Tech Toolbox
+## 🔧 What I’m Working With
 
-**Cloud & DevOps:**  
-AWS (EC2, S3, IAM, CloudTrail, Elastic Beanstalk) • Terraform • Git • Linux basics
-
-**Development:**  
-Node.js • Express.js • MongoDB (Atlas) • HTML • CSS • JavaScript
-
-**Tools:**  
-GitHub • VS Code • Postman • GitHub Pages
+- **Cloud**: AWS (EC2, S3, IAM, CloudTrail, Elastic Beanstalk)  
+- **IaC & Automation**: Terraform (EC2 provisioning, S3 backend, tagging)  
+- **Web Dev**: Node.js, Express.js, HTML, CSS, JavaScript  
+- **Database**: MongoDB Atlas  
+- **Tools**: Git, GitHub, Postman, VS Code, Linux basics
 
 ---
 
-## 📫 Let’s Connect
+## 🔨 Featured Projects
 
-🧠 Always open to internships, open-source collaboration, or just chatting tech.  
-📬 yashdive22@gmail.com  
-🌍 Pune, India
+### 🔹 Rick & Morty Portal Web App
+- Full-stack app with animation and sound effects  
+- Node.js + MongoDB backend with form submissions  
+- Deployed on AWS (EC2, S3, Beanstalk) with CloudTrail logging
 
-> _“I don’t just learn tools — I build with them.”_
+### 🔹 AWS EC2 Terraform Automation
+- Automates EC2 infrastructure with tagging, SSH, and S3 remote state  
+- Organized codebase with variables and modular config
+
+*(More projects coming soon...)*
+
+---
+
+## 🎯 My Learning Focus
+
+- Automating infrastructure with **Terraform**
+- Deploying real projects using **AWS**
+- Improving backend skills with **Node.js + MongoDB**
+- Understanding **CI/CD pipelines** and **containerization (Docker)**
+
+---
+
+## 📫 Contact
+
+- 📬 Email: yashdive22@gmail.com  
+- 🌍 Location: Pune, India  
+- 🛠️ Open to internships, collaboration, and learning opportunities
+
+> _“I don’t just study tools — I build with them.”_
+
+---
+
+Thank you for visiting my GitHub! 🚀  
+Let’s build something awesome.
